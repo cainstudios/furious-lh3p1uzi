@@ -1,0 +1,26 @@
+{
+  "name": "@backlight-dev/industrious-quicksand-own0o.furious-lh3p1uzi",
+  "version": "0.1.0",
+  "description": "Furious - a design system based on FAST Frame",
+  "license": "MIT",
+  "repository": "github:divriots/starter-furious",
+  "homepage": "https://backlight.dev/preview/xS11aQmjMLIvr5PU5Mru/",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "serve": "npx backlight@latest serve 50JfNOWj0uokgrJbtoC4 --open"
+  },
+  "dependencies": {
+    "@microsoft/fast-colors": "^5.3.0",
+    "@microsoft/fast-components": "^2.30.5",
+    "@microsoft/fast-element": "^1.10.1",
+    "@microsoft/fast-foundation": "^2.46.2",
+    "@microsoft/fast-web-utilities": "^5.4.1"
+  },
+  "devDependencies": {
+    "@divriots/dockit-core": "^0.8.3",
+    "lit": "^2.2.1",
+    "prettier": "^2.5.1"
+  }
+}
